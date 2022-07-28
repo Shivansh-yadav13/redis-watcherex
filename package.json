@@ -1,0 +1,13 @@
+{
+  "name": "@casbin/redis-watcherex",
+  "version": "1.0.0",
+  "description": "Redis WatcherEx for node-casbin",
+  "main": "src/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "4.7.4"
+  },
+  "dependencies": {
+    "casbin-core": "^0.0.0-beta.2"
+  }
+}
